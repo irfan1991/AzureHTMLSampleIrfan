@@ -2,11 +2,11 @@
 <html>
 <head>
 	<meta http-equiv="content-type" content="text/html" />
-	<meta name="author" content="Hakko Bio Richard" />
+	<meta name="author" content="Irfan P" />
 	<title>OOP Input Data</title>
     <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
       <!--Import materialize.css-->
-    <link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection"/>
+    <link type="text/css" rel="stylesheet" href="css/materialize.css"  media="screen,projection"/>
 </head>
 <body>
 <div class="container">
@@ -16,7 +16,7 @@
       Aplikasi To Do List
       <ul id="nav-mobile" class="right hide-on-med-and-down">
        
-        <li><a href="http://acchoblues.github.io" target="_blank">About</a></li>
+        <li><a href="#" target="_blank">About</a></li>
       </ul>
     </div>
   </nav>
@@ -57,7 +57,7 @@
 <footer class="page-footer blue darken-1">
           <div class="footer-copyright">
             <div class="container">
-           Irfan Prasetyo | Copyright © 2018
+           Irfan Prasetyo | Copyright ï¿½ 2018
             
             </div>
           </div>
