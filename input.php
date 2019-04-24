@@ -13,7 +13,7 @@
 <div class="col s12">
 <nav>
     <div class="nav-wrapper blue darken-1">
-      Aplikasi To Do List
+      Aplikasi Data Azure
       <ul id="nav-mobile" class="right hide-on-med-and-down">
        
         <li><a href="#" target="_blank">About</a></li>

@@ -6,21 +6,21 @@ $db = new database();
 <html>
 <head>
 	<meta http-equiv="content-type" content="text/html" />
-	<meta name="author" content="Hakko Bio Richard" />
+	<meta name="author" content="Irfan P" />
 	<title>OOP Input Data</title>
     <link href="http://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
       <!--Import materialize.css-->
-    <link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection"/>
+    <link type="text/css" rel="stylesheet" href="css/materialize.css"  media="screen,projection"/>
 </head>
 <body>
 <div class="container">
 <div class="col s12">
 <nav>
     <div class="nav-wrapper blue darken-1">
-     Aplikasi DATA PADA AZURE
+     Aplikasi DATA AZURE
       <ul id="nav-mobile" class="right hide-on-med-and-down">
       <!--  -->
-        <li><a href="http://acchoblues.github.io" target="_blank">About</a></li>
+        <li><a href="#" target="_blank">About</a></li>
       </ul>
     </div>
   </nav>
